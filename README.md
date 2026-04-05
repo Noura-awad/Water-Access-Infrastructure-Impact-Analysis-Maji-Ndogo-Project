@@ -54,6 +54,7 @@ The dataset includes:
 - Breakdown of infrastructure improvements and costs  
 - Visual analysis of water sources and service coverage  
 
+<img width="890" height="492" alt="image" src="https://github.com/user-attachments/assets/92bf6950-3e22-472e-a14a-2db357fff631" />
 
 
 ```markdown
